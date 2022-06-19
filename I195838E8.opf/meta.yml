@@ -1,0 +1,31 @@
+id: I195838E8
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:56:23.713464'
+last_modified: '2022-06-19T17:56:23.713475'
+parser: null
+source_metadata:
+  title: Turning Back the Summons
+  language: en
+  description: 'Texts related to the practice of ‘turning back the summons’ or ‘averting
+    the call’ (sun bzlog) of the ḍākinīs:'
+  volume:
+    f0000:
+      title: Brief Turning Back the Summons
+      base_file: f0000.txt
+      order: 1
+      parent: Practices
+    f40C0:
+      title: Confession and Fulfilment Insert for Accumulating the Practice of Turning
+        Back the Summons of the Ḍākinīs
+      base_file: f40C0.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
